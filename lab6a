@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body bgcolor="cyan">
+<form action="6a.jsp">
+<table border="1" bgcolor="yellow">
+<tr>
+<th colspan="2">Print Factorial</th>
+</tr>
+<tr>
+<td><b>Enter a number</b></td>
+<td><input type="text" name="no1"></td>
+</tr>
+<tr>
+<td colspan="2" align ="center"><input type = "submit" name = "submit"></td>
+</tr>
+</table>
+</form>
+</body>
+</html>
